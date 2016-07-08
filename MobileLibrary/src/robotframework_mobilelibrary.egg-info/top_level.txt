@@ -1,0 +1,2 @@
+AppiumLibrary
+ez_setup

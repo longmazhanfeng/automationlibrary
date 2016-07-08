@@ -1,0 +1,46 @@
+Metadata-Version: 1.1
+Name: robotframework-mobilelibrary
+Version: 1.0.2
+Summary: app testing library for Robot Framework
+Home-page:  
+Author: Subscription QA
+Author-email: <longmazhanfeng@gmail.com>
+License: Apache License 2.0
+Description: This Library for RobotFramework
+        ==================================================
+        
+        Introduction
+        ------------
+        
+        RobotFramework-MobileLibrary is an appium testing library for `RobotFramework <http://code.google.com/p/robotframework/>`_.
+        
+        It uses `Appium <http://appium.io/>`_ (version 1.x) to communicate with Android and iOS application 
+        similar to how `Selenium WebDriver <http://seleniumhq.org/projects/webdriver/>`_ talks
+        to web browser.
+        
+        It support Python 2.x only.
+        
+        
+        Installation
+        ------------
+        
+        Using ``pip``
+        '''''''''''''
+        
+        The recommended installation method is using
+        `pip <http://pip-installer.org>`__::
+        
+            pip install robotframework-mobilelibrary
+        
+        Project Contributors
+        --------------------
+        * `Dong Hao <longmazhanfeng@gmail.com>`_
+        * `Wang Yangdan <wangyangdan@gmail.com>`_
+        * `Xia Daqiang <joehisaishi1943@gmail.com>`_
+Keywords: robotframework testing testautomation mobile appium webdriver app
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Testing
